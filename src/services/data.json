@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "6217debe-2e48-4c38-beb6-d6e3897318fd",
+      "name": "Homework",
+      "applied": false
+    },
+    {
+      "id": "adf0e11a-08a4-4baa-9ed7-75e7d9472b60",
+      "name": "Iron clothes",
+      "applied": false
+    },
+    {
+      "id": "abcb3341-e766-49f4-9cfc-2b60800f2564",
+      "name": "Clean room",
+      "applied": false
+    } 
+    
+    
+  ]
+}
